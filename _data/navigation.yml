@@ -2,8 +2,8 @@
 main:
   - title: "블로그 방문하기"
     url: https://bigonggae.github.io/
-  - title: "한상태"
-    url: /categories/한상태/
+  - title: "CODE"
+    url: /categories/CODE/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
