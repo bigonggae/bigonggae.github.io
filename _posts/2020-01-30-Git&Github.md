@@ -1,9 +1,12 @@
 ---
-layout: post
 title:  "Git, Github 시작하기"
-date:   2020-01-30 20:50:00 +0700
-comments: true
-categories: [Git, Github]
+excerpt: "Git, Github 란?"
+
+categories:
+  - Git
+tags:
+  - Git
+last_modified_at: 2020-01-30T08:06:00-05:00
 ---
 
 ###Git 이란?
