@@ -14,9 +14,9 @@ last_modified_at: 2020-01-30T08:06:00-05:00
 - Github 용어
 - Github 사용법
 - Git 명령어 정리
-</br>
-</br>
-</br>
+#
+#
+#
 
 
 
@@ -29,8 +29,8 @@ repository(저장소)는 파일이나 디렉토리 등을 저장하는 장소 �
 Local repository : 자신의 컴퓨터 (하드웨어)
 Remote repository : 서버 네트워크에 있는 원격 저장소
 
-</br>
-</br>
+#
+#
 
 ######2. Commit, Push, Pull, Clone, branch
 
@@ -54,11 +54,12 @@ branch
 
 한 프로젝트를 기본 베이스로 여러 사람이 협업 할 때 사용한다. 기본적으로 master  branch가 있으며 master에서 여러 갈래로 나뉘어 질 수 있다. A 버전이 있으면 A-1, A-2, A-3 등 여러 버전을 동시에 작업 할 수 있게 해준다.
 
-</br>
-</br>
-</br>
-</br>
-</br>
+#
+#
+#
+#
+#
+#
 
 
 ####Github 사용법
@@ -71,10 +72,10 @@ branch
 - git commit -m "initial Commit."
 - git push origin master
 
-</br>
-</br>
-</br>
-</br>
+#
+#
+#
+#
 ####Git 명령어 정리 
 
 
